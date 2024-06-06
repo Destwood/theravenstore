@@ -1,0 +1,19 @@
+.header {
+  width: 100%;
+  background-color: #424242;
+  padding: 1rem 3rem;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 1rem;
+}
+
+.cart {
+  background-color: #0d0d0d;
+  padding: 1rem;
+  width: fit-content;
+  user-select: none;
+  &:hover {
+    cursor: pointer;
+  }
+}
