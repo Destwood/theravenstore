@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/your-repo-name/static/css/main.08b30c7b.css",
+    "main.js": "/your-repo-name/static/js/main.c903fdc1.js",
+    "static/media/dead-cells.jpg": "/your-repo-name/static/media/dead-cells.8600df6199f6aeff7bc4.jpg",
+    "static/media/dark-souls-3.jpg": "/your-repo-name/static/media/dark-souls-3.ff00eff7fb4c563e6c1c.jpg",
+    "static/media/hearts-of-iron-4.jpg": "/your-repo-name/static/media/hearts-of-iron-4.caa68dcf7c5c0d2bc966.jpg",
+    "index.html": "/your-repo-name/index.html",
+    "main.08b30c7b.css.map": "/your-repo-name/static/css/main.08b30c7b.css.map",
+    "main.c903fdc1.js.map": "/your-repo-name/static/js/main.c903fdc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08b30c7b.css",
+    "static/js/main.c903fdc1.js"
+  ]
+}
